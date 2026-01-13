@@ -2,7 +2,7 @@
 name: Malicious / Abuse Domain Report
 about: Report a domain that should be blocked due to malicious or abusive activity
 title: 'Malicious domain: <domain>'
-labels: ''
+labels: ["malicious"]
 assignees: ''
 
 ---
