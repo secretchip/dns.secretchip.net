@@ -2,7 +2,7 @@
 name: False Positive Report
 about: Report a legitimate domain that is incorrectly blocked
 title: 'False positive: <domain>'
-labels: ''
+labels: ["false-positive"]
 assignees: ''
 
 ---
