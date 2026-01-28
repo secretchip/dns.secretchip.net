@@ -1,0 +1,138 @@
+PRICING ALIGNMENT
+
+FREE
+
+What free means
+
+No registration
+
+No identity
+
+No billing
+
+Included
+
+Public DNS resolvers
+
+UDP, DoT, DoH
+
+Core threat categories
+
+Daily updates
+
+Public reporting
+
+Public documentation
+
+Limits exist only to prevent abuse.
+
+SMB
+
+Paid for predictability.
+
+Included
+
+Tokenized endpoints
+
+Higher query limits
+
+Policy selection
+
+Basic statistics
+
+Email support
+
+Not included
+
+User tracking
+
+Per-device profiling
+
+ENTERPRISE
+
+Paid for control and compliance.
+
+Included
+
+Multiple tokens
+
+Office and roaming separation
+
+Advanced policies
+
+Detailed reporting
+
+Log export
+
+SLA
+
+API access
+
+WHAT WILL NEVER BECOME PAID
+
+This is a hard boundary.
+
+Public blocklists
+
+Threat categories
+
+False positive reporting
+
+Misclassification reporting
+
+Security vulnerability reporting
+
+Documentation
+
+Anonymous usage
+
+If a feature affects safety, it stays public.
+
+WHY THIS WILL NOT BECOME SPYWARE
+
+This page exists because DNS providers often cross that line.
+
+What spyware DNS does
+
+Profiles users
+
+Sells query data
+
+Injects ads
+
+Tracks devices across networks
+
+Uses DNS data for marketing
+
+What this service explicitly does not do
+
+No user profiling
+There is no concept of a user in the free tier.
+
+No data resale
+DNS data is not sold, shared, or licensed.
+
+No ads
+DNS responses are never altered for advertising.
+
+No cross-token tracking
+Paid tokens are isolated by design.
+
+No silent policy changes
+Blocking logic changes are visible and documented.
+
+Minimal logging
+Logs exist only for security, abuse prevention, and paid reporting features.
+
+Short retention by default
+Free users have minimal retention. Paid users choose retention length.
+
+Open scrutiny
+The lists, categories, and processes are public.
+
+Economic incentive alignment
+The service is paid by subscriptions, not by harvesting data.
+
+Core principle
+
+If a feature requires knowing who you are, it does not belong in a Protective DNS service.
